@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hazel1321
+- 👋 Hi, I’m Hazel Guo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web3 community
